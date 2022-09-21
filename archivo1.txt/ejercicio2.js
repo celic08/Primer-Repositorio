@@ -1,2 +1,2 @@
-var MiNombre = "Celic"
-Minombre = 8;
+var sum= 10 + 10;
+console.log(sum)
